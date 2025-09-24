@@ -1320,3 +1320,147 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.24-13.01.25:151][602]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
 [2025.09.24-13.01.25:154][602]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_D0460C83D0D20E9202_2063738135
 [2025.09.24-13.01.25:154][602]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_D0460C83D0D20E9202_2063738135
+[2025.09.24-13.02.03:631][371]Cmd: DELETE
+[2025.09.24-13.02.03:631][371]Cmd: ACTOR DELETE
+[2025.09.24-13.02.03:633][371]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.02.03:675][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.09.24-13.02.03:676][371]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2025.09.24-13.02.09:323][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.09.24-13.02.09:323][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.09.24-13.02.09:324][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_D0460C83D0D20E9202_2107910136
+[2025.09.24-13.02.09:325][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_D0460C83D0D20E9202_2107910136
+[2025.09.24-13.02.52:494][655]Cmd: DELETE
+[2025.09.24-13.02.52:494][655]Cmd: ACTOR DELETE
+[2025.09.24-13.02.52:495][655]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.02.52:511][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.09.24-13.02.52:513][655]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.09.24-13.02.53:491][763]Cmd: DELETE
+[2025.09.24-13.02.53:491][763]Cmd: ACTOR DELETE
+[2025.09.24-13.02.53:492][763]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.02.53:506][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.09.24-13.02.53:507][763]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.09.24-13.02.54:144][832]Cmd: DELETE
+[2025.09.24-13.02.54:144][832]Cmd: ACTOR DELETE
+[2025.09.24-13.02.54:145][832]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.02.54:160][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.24-13.02.54:161][832]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.09.24-13.02.54:706][890]Cmd: DELETE
+[2025.09.24-13.02.54:706][890]Cmd: ACTOR DELETE
+[2025.09.24-13.02.54:708][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.02.54:721][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.09.24-13.02.54:723][890]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.09.24-13.02.55:462][971]Cmd: DELETE
+[2025.09.24-13.02.55:462][971]Cmd: ACTOR DELETE
+[2025.09.24-13.02.55:463][971]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.02.55:476][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.09.24-13.02.55:478][971]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.09.24-13.02.55:936][ 19]Cmd: DELETE
+[2025.09.24-13.02.55:936][ 19]Cmd: ACTOR DELETE
+[2025.09.24-13.02.55:937][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.02.55:955][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.09.24-13.02.55:956][ 19]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.09.24-13.02.56:550][ 83]Cmd: DELETE
+[2025.09.24-13.02.56:550][ 83]Cmd: ACTOR DELETE
+[2025.09.24-13.02.56:551][ 83]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.02.56:565][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.09.24-13.02.56:567][ 83]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.09.24-13.02.57:146][145]Cmd: DELETE
+[2025.09.24-13.02.57:146][145]Cmd: ACTOR DELETE
+[2025.09.24-13.02.57:147][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.02.57:161][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.24-13.02.57:162][145]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.09.24-13.02.57:629][192]Cmd: DELETE
+[2025.09.24-13.02.57:629][192]Cmd: ACTOR DELETE
+[2025.09.24-13.02.57:630][192]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.02.57:644][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.24-13.02.57:646][192]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.09.24-13.02.58:499][287]Cmd: DELETE
+[2025.09.24-13.02.58:499][287]Cmd: ACTOR DELETE
+[2025.09.24-13.02.58:500][287]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.02.58:514][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.09.24-13.02.58:516][287]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.09.24-13.02.59:413][387]Cmd: DELETE
+[2025.09.24-13.02.59:413][387]Cmd: ACTOR DELETE
+[2025.09.24-13.02.59:415][387]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.02.59:428][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.24-13.02.59:430][387]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.09.24-13.02.59:917][438]Cmd: DELETE
+[2025.09.24-13.02.59:917][438]Cmd: ACTOR DELETE
+[2025.09.24-13.02.59:917][438]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.02.59:931][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.09.24-13.02.59:933][438]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.09.24-13.03.00:407][486]Cmd: DELETE
+[2025.09.24-13.03.00:407][486]Cmd: ACTOR DELETE
+[2025.09.24-13.03.00:408][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.03.00:420][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.09.24-13.03.00:422][486]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.09.24-13.03.00:884][534]Cmd: DELETE
+[2025.09.24-13.03.00:884][534]Cmd: ACTOR DELETE
+[2025.09.24-13.03.00:886][534]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.03.00:899][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.24-13.03.00:901][534]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.09.24-13.03.01:611][611]Cmd: DELETE
+[2025.09.24-13.03.01:611][611]Cmd: ACTOR DELETE
+[2025.09.24-13.03.01:612][611]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.03.01:625][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.24-13.03.01:626][611]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.09.24-13.03.02:315][687]Cmd: DELETE
+[2025.09.24-13.03.02:316][687]Cmd: ACTOR DELETE
+[2025.09.24-13.03.02:317][687]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.03.02:331][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.24-13.03.02:333][687]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.09.24-13.03.02:910][749]Cmd: DELETE
+[2025.09.24-13.03.02:910][749]Cmd: ACTOR DELETE
+[2025.09.24-13.03.02:912][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-13.03.02:926][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.09.24-13.03.02:928][749]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: SeekCallback: Failed to seek to Offset=0, Origin=0 seek disabled
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B9F275B9C-4585-BBAC-817F-899A117A57B9%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 0 (Found bundle for host: 0x25dcd880270 [serially])
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 7 (Closing connection)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 9 (Send failure: Connection was reset)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 11 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B9F275B9C-4585-BBAC-817F-899A117A57B9%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 12 (Found bundle for host: 0x25dcd880270 [serially])
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 13 (Re-using existing connection with host api.epicgames.dev)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 14 (We are completely uploaded and fine)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 15 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 16 (Connection died, retrying a fresh connect (retry count: 2))
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 17 (state.rewindbeforesend = TRUE)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 18 (Closing connection)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 19 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 20 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B9F275B9C-4585-BBAC-817F-899A117A57B9%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.09.24-13.03.11:399][867]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 21 (  Trying 52.6.118.167:443...)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 22 (Connected to api.epicgames.dev (52.6.118.167) port 443)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 23 (ALPN: curl offers http/1.1)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 24 (SSL reusing session ID)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 25 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 26 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 27 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 28 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 29 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 30 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 31 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 32 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 33 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 34 (ALPN: server accepted http/1.1)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 35 (Server certificate:)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 36 ( subject: CN=*.befa.live.use1a.on.epicgames.com)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 37 ( start date: Sep 18 00:00:00 2025 GMT)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 38 ( expire date: Oct 16 23:59:59 2026 GMT)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 39 ( subjectAltName: host "api.epicgames.dev" matched cert's "*.epicgames.dev")
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 40 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M01)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 41 ( SSL certificate verify ok.)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 42 (using HTTP/1.1)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 43 (seek callback returned error 2)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 44 (Closing connection)
+[2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 45 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.24-13.03.11:735][868]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B9F275B9C-4585-BBAC-817F-899A117A57B9%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
