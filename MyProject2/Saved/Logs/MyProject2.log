@@ -1464,3 +1464,28 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 44 (Closing connection)
 [2025.09.24-13.03.11:399][868]LogEOSSDK: Warning: LogHttp: 0000025DB182D200: libcurl info message cache 45 (TLSv1.3 (OUT), TLS alert, close notify (256):)
 [2025.09.24-13.03.11:735][868]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B9F275B9C-4585-BBAC-817F-899A117A57B9%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.09.24-13.03.50:938][460]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 340.399963
+[2025.09.24-13.03.52:603][464]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.24-13.03.52:603][464]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 341.733459, Update Interval: 319.532471
+[2025.09.24-13.05.08:166][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-13.05.08:236][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.24-13.05.08:251][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.09.24-13.05.08:265][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.24-13.05.08:276][570]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/CB/KLXO87YMPD2HJQIPGH8AWI
+[2025.09.24-13.05.08:276][570]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/CCExample/MyProject2/Saved/KLXO87YMPD2HJQIPGH8AWIE3E402964753A96875A88AA6A37CA736.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/CCExample/MyProject2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/CB/KLXO87YMPD2HJQIPGH8AWI.uasset'
+[2025.09.24-13.05.08:290][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.219 ms
+[2025.09.24-13.05.08:349][570]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-13.05.08:349][570]LogContentValidation: Enabled validators:
+[2025.09.24-13.05.08:349][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-13.05.08:349][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-13.05.08:349][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-13.05.08:349][570]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-13.05.08:349][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-13.05.08:349][570]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-13.05.08:349][570]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.09.24-13.05.08:368][570]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/CCExample/MyProject2/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.24-13.05.09:326][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-13.05.09:381][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.24-13.05.09:394][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.24-13.05.09:408][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.09.24-13.05.09:418][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.820 ms (total: 216.040 ms)
