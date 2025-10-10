@@ -10109,3 +10109,58 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.10-14.39.48:205][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8050.912598, Update Interval: 358.941620
 [2025.10.10-14.41.06:147][951]LogBlueprint: Error: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\CCExample\thirdpersonexample\Content\AI\EnemySpawn\EnemyNPC.uasset: [Compiler] This blueprint (self) is not a AIController, therefore ' Controller ' must have a connection.
 [2025.10.10-14.41.06:196][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.10-14.44.58:124][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.10-14.44.58:185][229]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemySpawn/EnemyNPC] ([2] browsable assets)...
+[2025.10.10-14.44.58:190][229]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/EnemySpawn/EnemyNPC.EnemyNPC]
+[2025.10.10-14.44.58:190][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemySpawn/EnemyNPC]
+[2025.10.10-14.44.58:190][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemySpawn/EnemyNPC" FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/EnemySpawn/EnemyNPC.uasset" SILENT=true
+[2025.10.10-14.44.58:205][229]LogSavePackage: Moving output files for package: /Game/AI/EnemySpawn/EnemyNPC
+[2025.10.10-14.44.58:207][229]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Saved/EnemyNPC0B9E47FA417D64C588018A9AE3FA5C59.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/EnemySpawn/EnemyNPC.uasset'
+[2025.10.10-14.44.58:217][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.353 ms (total: 4.85 sec)
+[2025.10.10-14.44.58:250][229]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.10-14.44.58:250][229]LogContentValidation: Enabled validators:
+[2025.10.10-14.44.58:250][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.10-14.44.58:250][229]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.10-14.44.58:250][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.10-14.44.58:250][229]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.10-14.44.58:250][229]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.10-14.44.58:250][229]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.10-14.44.58:251][229]AssetCheck: /Game/AI/EnemySpawn/EnemyNPC Validating asset
+[2025.10.10-14.45.33:037][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.10-14.45.33:096][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/EnemySpawn/EnemyNPC] ([2] browsable assets)...
+[2025.10.10-14.45.33:096][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemySpawn/EnemyNPC]
+[2025.10.10-14.45.33:097][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemySpawn/EnemyNPC" FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/EnemySpawn/EnemyNPC.uasset" SILENT=true
+[2025.10.10-14.45.33:110][235]LogSavePackage: Moving output files for package: /Game/AI/EnemySpawn/EnemyNPC
+[2025.10.10-14.45.33:112][235]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Saved/EnemyNPCA72666BD47BFEA151AEE2A95BAC851EE.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/EnemySpawn/EnemyNPC.uasset'
+[2025.10.10-14.45.33:122][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.901 ms (total: 4.93 sec)
+[2025.10.10-14.45.33:180][235]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.10-14.45.33:180][235]LogContentValidation: Enabled validators:
+[2025.10.10-14.45.33:180][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.10-14.45.33:180][235]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.10-14.45.33:180][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.10-14.45.33:180][235]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.10-14.45.33:180][235]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.10-14.45.33:180][235]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.10-14.45.33:180][235]AssetCheck: /Game/AI/EnemySpawn/EnemyNPC Validating asset
+[2025.10.10-14.45.55:117][829]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.10-14.45.55:130][829]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.10-14.45.55:155][829]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.10-14.45.55:178][830]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.10-14.46.00:171][233]LogContentBrowser: Attempting asset rename: NewBlueprint -> enemyspawner
+[2025.10.10-14.46.00:175][233]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/EnemySpawn/enemyspawner.
+[2025.10.10-14.46.00:179][233]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.10-14.46.01:534][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/EnemySpawn/enemyspawner.enemyspawner
+[2025.10.10-14.46.01:535][328]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.10.10-14.46.35:870][523]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8458.487305
+[2025.10.10-14.46.36:015][540]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.10-14.46.36:015][540]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8458.625000, Update Interval: 337.687927
+[2025.10.10-14.51.39:933][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.10-14.51.39:937][ 30]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.051
+[2025.10.10-14.51.39:937][ 30]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/EnemySpawn/enemyspawner] ([2] browsable assets)...
+[2025.10.10-14.51.39:937][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemySpawn/enemyspawner]
+[2025.10.10-14.51.39:949][ 30]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/EnemySpawn/enemyspawner_Auto8
+[2025.10.10-14.51.39:949][ 30]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Saved/enemyspawner_Auto802F935194B7FC2F1D7050BBD0EEB7741.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Saved/Autosaves/Game/AI/EnemySpawn/enemyspawner_Auto8.uasset'
+[2025.10.10-14.51.39:954][ 30]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.10.10-14.53.13:038][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8855.631836
+[2025.10.10-14.53.13:176][393]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.10-14.53.13:176][393]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8855.755859, Update Interval: 351.430389
