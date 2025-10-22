@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/Characters/Mannequins/Materials/Manny/MI_Manny_01_New.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/Enemy.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/NPC.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/NPC_BT.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/JO/4S77I4P6G2BZBKPCYGA1FN.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/Characters/Mannequins/Materials/Quinn/MI_Quinn_01.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/NPC_BB.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/Y5/Q4G22AR1Y4DH5PWCJ3GLKD.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/S8/6NHHKJ615ZB3ZYT0CCX3E5.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/findrandomlocation.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/84/SVEEP6SQZTHWTFMNJUF38H.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/EnemyNPC.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/EnemySpawn/EnemyNPC.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/NavMesh/NPC_AI.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/NavMesh/NPC.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/NavMesh/findrandomlocation.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/NavMesh/NPC_BT.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/AI/NavMesh/NPC_BB.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/UIInterface/Health.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/CCExample/thirdpersonexample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset"
+			]
+		}
+	]
+}

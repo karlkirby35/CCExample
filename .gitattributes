@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.uplugin filter=lfs diff=lfs merge=lfs -text
 *.uasset filter=lfs diff=lfs merge=lfs -text
 *.umap filter=lfs diff=lfs merge=lfs -text
@@ -5,3 +6,7 @@
 *.uexp filter=lfs diff=lfs merge=lfs -text
 *.wav filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+>>>>>>> 72c35a3a13e14cb72a1a134b7def90c624ed9427
