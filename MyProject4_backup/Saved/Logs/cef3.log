@@ -1,2 +1,0 @@
-[1022/214034.808:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[1022/220909.342:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
