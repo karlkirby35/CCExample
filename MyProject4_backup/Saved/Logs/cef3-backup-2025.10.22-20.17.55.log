@@ -1,0 +1,80 @@
+[1022/175354.025:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/175502.644:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1022/175535.984:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/175811.471:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/180142.607:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/180535.512:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/180812.647:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/181006.160:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/181124.375:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/181601.381:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/181951.177:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/182344.303:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/183807.563:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/183808.852:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/200858.907:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/203358.740:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/203455.826:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/203648.402:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/203653.720:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/204757.829:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/205146.109:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/205329.047:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/205353.797:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1022/205353.956:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1022/205356.021:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1022/205356.026:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1022/205356.052:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1022/205433.833:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/211644.177:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1022/211644.304:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1022/211644.823:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1022/211647.474:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/211659.881:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/211738.642:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1022/211738.832:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1022/211754.378:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1022/211754.500:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1022/211754.694:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1022/211754.708:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1022/211754.712:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1022/211754.847:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+
+[1022/211755.156:ERROR:gl_utils.cc(314)] [.WebGL-000003A4B5D71C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1022/211755.174:ERROR:gl_utils.cc(314)] [.WebGL-000003A4B5D71C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
